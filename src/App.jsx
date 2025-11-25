@@ -1,3 +1,4 @@
+import Contacts from "./components/Contacts"
 import Delicious from "./components/Delicious"
 import Events from "./components/Events"
 import Header from "./components/Header"
@@ -12,6 +13,7 @@ function App() {
       <Delicious/>
       <Swiper/>
       <Events/>
+      <Contacts/>
     </>
   )
 }
