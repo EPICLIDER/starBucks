@@ -4,7 +4,7 @@ import Events from "./components/Events"
 import Header from "./components/Header"
 import Navbar from "./components/Navbar"
 import Swiper from "./components/Swiper"
-import Footer from "./Footer"
+import Footer from "./components/Footer"
 
 function App() {
   return (
