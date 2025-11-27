@@ -31,7 +31,7 @@ export default function Footer() {
           <a className='text-[#BBB3B36E] text-xl' href="">Instagram</a>
           <a className='text-[#BBB3B36E] text-xl' href="">Number</a>
         </div>
-        <img className='h-[84px] w-[84px]' src="src/assets/top.svg" alt="" />
+        <a href=""><img className='h-[84px] w-[84px]' src="src/assets/top.svg" alt="" /></a>
       </div>
       <div className='flex gap-257 justify-center'>
         <p className='font-medium text-3xl bg-[linear-gradient(265.23deg,_#237249_6.79%,_#35C66B_97.2%)] bg-clip-text text-transparent'>+7-999-999-99-99</p>
