@@ -1,9 +1,9 @@
 function Contacts () {
     return (
-<div className="container flex m-auto justify-between">
-    <div>
+<div className="container flex m-auto justify-center gap-100">
+    <div className="flex flex-col gap-13">
         <h2 className="w-[365px] font-extrabold text-[80px] text-white">
-            Our 
+            Our <br />
             <span className="bg-[linear-gradient(265.23deg,_#237249_6.79%,_#35C66B_97.2%)] bg-clip-text text-transparent">
             Contacts
             </span>

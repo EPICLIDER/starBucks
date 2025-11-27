@@ -5,7 +5,7 @@ body {
 }
 
 .swiper-button-prev {
-  background-image: url("src/assets/swiper-btn.svg");
+  background-image: url("src/assets/swiper-btn.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -19,7 +19,7 @@ body {
 }
 
 .swiper-button-next {
-  background-image: url("src/assets/swiper-btn.svg");
+  background-image: url("src/assets/swiper-btn.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
